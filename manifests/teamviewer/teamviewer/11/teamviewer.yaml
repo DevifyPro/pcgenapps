@@ -7,8 +7,8 @@ Tags:
   - teamviewer
 Description: teamviewer
 Homepage: https://teamviewer.com
-License: MIT
-LicenseUrl: https://github.com/microsoft/terminal/blob/main/LICENSE
+License: Proprietary
+LicenseUrl: https://www.teamviewer.com/en/eula/
 InstallerType: exe
 Installers:
   - Architecture: x64
