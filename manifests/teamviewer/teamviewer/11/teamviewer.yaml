@@ -1,0 +1,16 @@
+Id: teamviewer.teamviewer
+Name: teamviewer
+Publisher: teamviewer
+Version: 11
+AppMoniker: teamviewer
+Tags:
+  - teamviewer
+Description: teamviewer
+Homepage: https://teamviewer.com
+License: MIT
+LicenseUrl: https://github.com/microsoft/terminal/blob/main/LICENSE
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    Url: https://dl.teamviewer.com/download/version_11x/TeamViewer_Host_Setup-idcd4g3mu2.exe
+    Sha256: 3f8e587daa1b2f0ebb08794c6c36c3c5b9ed577a
