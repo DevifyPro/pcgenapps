@@ -1,0 +1,9 @@
+PackageIdentifier: Pcgen.Teamviewer
+PackageVersion: "11"
+PackageLocale: en-US
+Publisher: Teamviewer
+PackageName: teamviewer
+License: Proprietary
+ShortDescription: teamviewer pcgen app
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
